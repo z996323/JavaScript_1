@@ -32,8 +32,8 @@ function division(a, b) {
 function multiply(a, b) {
     return a * b
 }
-console.log(MathOperation(5, 7, '+'));
-console.log(MathOperation(5, 7, '-'));
+console.log(MathOperation(-7, 7, '+'));
+console.log(MathOperation(-7, 7, '-'));
 console.log(MathOperation(5, 7, '/'));
 console.log(MathOperation(5, 7, '*'));
 console.log(MathOperation(5, 7, 'text'));
